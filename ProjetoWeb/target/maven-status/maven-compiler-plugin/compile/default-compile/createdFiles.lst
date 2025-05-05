@@ -1,0 +1,4 @@
+com\seuprojeto\model\Produto.class
+com\seuprojeto\servlet\Main.class
+com\seuprojeto\dao\BancoDeDados.class
+com\seuprojeto\dao\Conexao.class
